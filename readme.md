@@ -10,7 +10,7 @@ NodeJS must be installed
 ## Rest APIs
 ### Train
 
-A. /train  
+/train  
 - This is a Post endpoint for creating train record wih all the fields required like (fromStn, toStn, TrainNo. etc).
 It has restriction that "Admin can only add trains". 
 
@@ -44,3 +44,6 @@ It has restriction that "User role can only cancel the tickets + that person sho
 
 A. /userBookingHistory
 - This is a GET endpoint. IT will return the particular user booking history. According to the token passed in the authorization header. Only user role users can see the booking history.
+
+### Postman Link
+- https://www.getpostman.com/collections/8b7f5affa5feca57eb82
