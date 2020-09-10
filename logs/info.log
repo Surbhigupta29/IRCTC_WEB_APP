@@ -1,0 +1,1183 @@
+2020-09-07 21:31:16: info: Server is listening on 8080
+2020-09-07 21:31:19: info: MongoDB is connected
+2020-09-07 22:28:17: info: Server is listening on 8080
+2020-09-07 22:28:20: info: MongoDB is connected
+2020-09-07 22:32:48: info: Server is listening on 8080
+2020-09-07 22:32:51: info: MongoDB is connected
+2020-09-07 22:35:05: error: uncaughtException: Cannot find module '../models/trains'
+Require stack:
+- C:\Users\user\Desktop\IRCTC\service\train.js
+- C:\Users\user\Desktop\IRCTC\controller\train.js
+- C:\Users\user\Desktop\IRCTC\routes\train.js
+- C:\Users\user\Desktop\IRCTC\app.js
+- C:\Users\user\Desktop\IRCTC\server.js
+Error: Cannot find module '../models/trains'
+Require stack:
+- C:\Users\user\Desktop\IRCTC\service\train.js
+- C:\Users\user\Desktop\IRCTC\controller\train.js
+- C:\Users\user\Desktop\IRCTC\routes\train.js
+- C:\Users\user\Desktop\IRCTC\app.js
+- C:\Users\user\Desktop\IRCTC\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:793:17)
+    at Function.Module._load (internal/modules/cjs/loader.js:686:27)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\service\train.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\train.js:1:22)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2020-09-07 22:35:48: error: uncaughtException: Cannot find module '../models/trains'
+Require stack:
+- C:\Users\user\Desktop\IRCTC\service\train.js
+- C:\Users\user\Desktop\IRCTC\controller\train.js
+- C:\Users\user\Desktop\IRCTC\routes\train.js
+- C:\Users\user\Desktop\IRCTC\app.js
+- C:\Users\user\Desktop\IRCTC\server.js
+Error: Cannot find module '../models/trains'
+Require stack:
+- C:\Users\user\Desktop\IRCTC\service\train.js
+- C:\Users\user\Desktop\IRCTC\controller\train.js
+- C:\Users\user\Desktop\IRCTC\routes\train.js
+- C:\Users\user\Desktop\IRCTC\app.js
+- C:\Users\user\Desktop\IRCTC\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:793:17)
+    at Function.Module._load (internal/modules/cjs/loader.js:686:27)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\service\train.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\train.js:1:22)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2020-09-07 22:37:17: info: Server is listening on 8080
+2020-09-07 22:37:19: info: MongoDB is connected
+2020-09-07 22:38:22: info: Server is listening on 8080
+2020-09-07 22:38:25: info: MongoDB is connected
+2020-09-07 22:40:17: info: /train - POST
+2020-09-07 22:45:10: info: Server is listening on 8080
+2020-09-07 22:45:13: info: MongoDB is connected
+2020-09-07 22:45:21: info: /train - POST
+2020-09-07 22:45:38: info: Server is listening on 8080
+2020-09-07 22:45:40: info: MongoDB is connected
+2020-09-07 22:45:43: info: /train - POST
+2020-09-07 22:46:45: info: Server is listening on 8080
+2020-09-07 22:46:48: info: MongoDB is connected
+2020-09-07 22:46:50: info: /train - POST
+2020-09-07 22:49:50: info: Server is listening on 8080
+2020-09-07 22:49:52: info: MongoDB is connected
+2020-09-07 22:49:59: info: /train - POST
+2020-09-07 22:58:27: info: Server is listening on 8080
+2020-09-07 22:58:29: info: MongoDB is connected
+2020-09-07 22:58:32: info: /train - POST
+2020-09-07 22:58:55: info: /train - POST
+2020-09-07 22:59:32: info: /train - POST
+2020-09-07 22:59:52: info: /train - POST
+2020-09-07 23:00:14: info: /train - POST
+2020-09-07 23:00:33: info: /train - POST
+2020-09-07 23:00:44: info: /train - POST
+2020-09-07 23:00:55: info: /train - POST
+2020-09-07 23:01:07: info: /train - POST
+2020-09-07 23:01:20: info: /train - POST
+2020-09-07 23:37:38: info: Server is listening on 8080
+2020-09-07 23:37:39: error: uncaughtException: alert is not defined
+ReferenceError: alert is not defined
+    at Timeout._onTimeout (C:\Users\user\Desktop\IRCTC\server.js:14:29)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-09-07 23:37:39: error: uncaughtException: alert is not defined
+ReferenceError: alert is not defined
+    at Timeout._onTimeout (C:\Users\user\Desktop\IRCTC\server.js:14:29)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-09-07 23:37:52: info: Server is listening on 8080
+2020-09-07 23:37:54: info: MongoDB is connected
+2020-09-07 23:38:29: info: Server is listening on 8080
+2020-09-07 23:38:31: info: MongoDB is connected
+2020-09-07 23:45:10: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-07 23:45:30: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-08 00:01:06: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-08 00:01:11: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-08 00:38:51: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-08 00:41:05: info: Server is listening on 8080
+2020-09-08 00:41:08: info: MongoDB is connected
+2020-09-08 00:41:11: info: /train - POST
+2020-09-08 00:41:33: info: /train - POST
+2020-09-08 00:41:49: info: /train - POST
+2020-09-08 00:42:01: info: /train - POST
+2020-09-08 00:42:18: info: /train - POST
+2020-09-08 00:42:36: info: /train - POST
+2020-09-08 00:42:48: info: /train - POST
+2020-09-08 00:43:04: info: /train - POST
+2020-09-08 00:43:21: info: /train - POST
+2020-09-08 00:46:02: info: /train - POST
+2020-09-08 00:53:41: info: /train - POST
+2020-09-08 00:53:46: info: /train - GET
+2020-09-09 00:53:25: info: Server is listening on 8080
+2020-09-09 00:53:27: info: MongoDB is connected
+2020-09-09 00:53:46: info: /train - GET
+2020-09-09 01:14:45: info: /train/101 - PUT
+2020-09-09 01:15:32: info: Server is listening on 8080
+2020-09-09 01:15:34: info: MongoDB is connected
+2020-09-09 01:16:02: info: Server is listening on 8080
+2020-09-09 01:16:05: info: MongoDB is connected
+2020-09-09 01:16:10: info: /train/101 - PUT
+2020-09-09 01:22:47: info: Server is listening on 8080
+2020-09-09 01:22:50: info: MongoDB is connected
+2020-09-09 01:23:08: info: /train/101 - PUT
+2020-09-09 01:24:41: info: /train - GET
+2020-09-09 01:24:44: info: /train - GET
+2020-09-09 01:27:41: info: Server is listening on 8080
+2020-09-09 01:27:43: info: MongoDB is connected
+2020-09-09 01:27:59: info: /train/101 - PUT
+2020-09-09 01:33:10: info: Server is listening on 8080
+2020-09-09 01:33:12: info: MongoDB is connected
+2020-09-09 01:33:16: info: /train/101 - PUT
+2020-09-09 01:33:26: info: Server is listening on 8080
+2020-09-09 01:33:28: info: MongoDB is connected
+2020-09-09 01:33:38: info: Server is listening on 8080
+2020-09-09 01:33:40: info: MongoDB is connected
+2020-09-09 01:33:44: info: /train/101 - PUT
+2020-09-09 01:34:27: info: Server is listening on 8080
+2020-09-09 01:34:29: info: MongoDB is connected
+2020-09-09 01:34:33: info: /train/101 - PUT
+2020-09-09 01:37:44: info: Server is listening on 8080
+2020-09-09 01:37:47: info: MongoDB is connected
+2020-09-09 01:37:51: info: /train/101 - PUT
+2020-09-09 01:38:48: info: Server is listening on 8080
+2020-09-09 01:38:50: info: MongoDB is connected
+2020-09-09 01:38:52: info: Server is listening on 8080
+2020-09-09 01:38:54: info: MongoDB is connected
+2020-09-09 01:39:05: info: Server is listening on 8080
+2020-09-09 01:39:07: info: MongoDB is connected
+2020-09-09 01:39:14: info: /train/101 - PUT
+2020-09-09 01:44:25: info: Server is listening on 8080
+2020-09-09 01:44:27: info: MongoDB is connected
+2020-09-09 01:44:33: info: /train/101 - PUT
+2020-09-09 01:58:28: info: /train - GET
+2020-09-09 02:00:12: info: Server is listening on 8080
+2020-09-09 02:00:15: info: MongoDB is connected
+2020-09-09 02:01:57: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:04:13: info: Server is listening on 8080
+2020-09-09 02:04:16: info: MongoDB is connected
+2020-09-09 02:04:27: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:05:38: info: Server is listening on 8080
+2020-09-09 02:05:40: info: MongoDB is connected
+2020-09-09 02:05:44: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:06:00: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:06:28: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:07:16: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:07:35: info: Server is listening on 8080
+2020-09-09 02:07:38: info: MongoDB is connected
+2020-09-09 02:07:56: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:09:01: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:10:36: info: Server is listening on 8080
+2020-09-09 02:10:38: info: MongoDB is connected
+2020-09-09 02:10:44: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:12:24: info: /train - GET
+2020-09-09 02:14:45: info: Server is listening on 8080
+2020-09-09 02:14:48: info: MongoDB is connected
+2020-09-09 02:14:57: info: /train/5f566e10d47a153418b5b8ce - PUT
+2020-09-09 02:15:25: info: Server is listening on 8080
+2020-09-09 02:15:27: info: MongoDB is connected
+2020-09-09 02:15:41: info: /train/5f566e10d47a153418b5b8c - PUT
+2020-09-09 02:16:20: info: /train - GET
+2020-09-09 02:16:32: info: /train/5f566b0219e8c21c2800a9f6 - PUT
+2020-09-09 02:17:21: info: /train/5f566b0219e8c21c2800a9f - PUT
+2020-09-09 02:18:42: info: /train/5f566b0219e8c21c2800a9f - DELETE
+2020-09-09 02:18:50: info: /train/5f566b0219e8c21c2800a9fe - DELETE
+2020-09-09 02:19:28: info: /train/5f566b0219e8c21c2800a9fe - DELETE
+2020-09-09 02:19:34: info: /train/5f566b0219e8c21c2800a9f - DELETE
+2020-09-09 02:19:38: info: /train/5f566b0219e8c21c2800a9fc - DELETE
+2020-09-09 02:20:20: info: Server is listening on 8080
+2020-09-09 02:20:22: info: MongoDB is connected
+2020-09-09 02:20:26: info: /train/5f566b0219e8c21c2800a9fc - DELETE
+2020-09-09 02:20:37: info: Server is listening on 8080
+2020-09-09 02:20:40: info: MongoDB is connected
+2020-09-09 02:20:43: info: /train/5f566b0219e8c21c2800a9fc - DELETE
+2020-09-09 02:20:46: info: /train - GET
+2020-09-09 02:20:50: info: /train - GET
+2020-09-09 02:21:10: info: /train/5f566b0219e8c21c2800a9f6 - DELETE
+2020-09-09 02:21:14: info: /train - GET
+2020-09-09 02:48:08: info: Server is listening on 8080
+2020-09-09 02:48:10: info: MongoDB is connected
+2020-09-09 02:49:02: info: Server is listening on 8080
+2020-09-09 02:49:05: info: MongoDB is connected
+2020-09-09 02:50:24: info: /train?filter[fromStn]=SANTRAGACHI%20JN - GET
+2020-09-09 02:52:01: info: /train?filter[fromStn]=[SANTRAGACHI%20JN,%20HAZRAT%20NIZAMUDDIN] - GET
+2020-09-09 03:02:44: info: /train?filter[fromStn]=SANTRAGACHI%20JN&filter[toStn]=VASAI%20ROAD - GET
+2020-09-09 03:02:56: info: Server is listening on 8080
+2020-09-09 03:02:58: info: MongoDB is connected
+2020-09-09 03:03:04: info: /train?filter[fromStn]=SANTRAGACHI%20JN&filter[toStn]=VASAI%20ROAD - GET
+2020-09-09 03:05:18: info: /train?filter[fromStn]=SANTRAGACHI%20JN&filter[toStn]=VASAI%20ROAD - GET
+2020-09-09 03:05:38: info: /train?filter[fromStn]=HAZRAT%20NIZAMUDDIN&filter[toStn]=VASAI%20ROAD - GET
+2020-09-09 03:06:39: info: Server is listening on 8080
+2020-09-09 03:06:41: info: MongoDB is connected
+2020-09-09 03:07:07: info: /train?filter[fromStn]=HAZRAT%20NIZAMUDDIN&filter[toStn]=VASAI%20ROAD - GET
+2020-09-09 03:09:46: info: /train?filter[travelDate]=2020-09-01 - GET
+2020-09-09 03:10:25: info: /train?filter[created_at]=2020-09-07 - GET
+2020-09-09 03:11:40: info: /train - POST
+2020-09-09 03:12:30: info: /train - POST
+2020-09-09 03:13:08: info: /train?filter[created_at]=2020-09-01 - GET
+2020-09-09 03:13:30: info: /train?filter[travelDate]=2020-09-01 - GET
+2020-09-09 09:57:12: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 09:57:34: info: Server is listening on 8080
+2020-09-09 09:58:04: error: MongoDB connection unsuccessful, retry after 5 seconds.MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2020-09-09 09:59:16: info: Server is listening on 8080
+2020-09-09 09:59:46: error: MongoDB connection unsuccessful, retry after 5 seconds.MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2020-09-09 10:03:54: info: Server is listening on 8080
+2020-09-09 10:03:57: info: MongoDB is connected
+2020-09-09 10:04:17: info: /train?filter[trainNo]=2822 - GET
+2020-09-09 10:04:27: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 10:06:17: info: Server is listening on 8080
+2020-09-09 10:06:20: info: MongoDB is connected
+2020-09-09 10:06:44: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 10:07:30: info: Server is listening on 8080
+2020-09-09 10:07:32: info: MongoDB is connected
+2020-09-09 10:07:37: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 10:08:15: info: Server is listening on 8080
+2020-09-09 10:08:17: info: MongoDB is connected
+2020-09-09 10:08:21: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 10:08:42: info: Server is listening on 8080
+2020-09-09 10:08:44: info: MongoDB is connected
+2020-09-09 10:08:49: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 10:09:55: info: Server is listening on 8080
+2020-09-09 10:09:58: info: MongoDB is connected
+2020-09-09 10:10:01: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 10:10:41: info: Server is listening on 8080
+2020-09-09 10:10:43: info: MongoDB is connected
+2020-09-09 10:10:47: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 10:11:05: info: Server is listening on 8080
+2020-09-09 10:11:08: info: MongoDB is connected
+2020-09-09 10:11:14: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-09 10:11:34: info: Server is listening on 8080
+2020-09-09 10:11:37: info: MongoDB is connected
+2020-09-09 10:35:39: info: Server is listening on 8080
+2020-09-09 10:35:39: error: MongoDB connection unsuccessful, retry after 5 seconds.Error: querySrv ECONNREFUSED _mongodb._tcp.clusterirctc.9kqdj.mongodb.net
+2020-09-09 13:31:50: info: Server is listening on 8080
+2020-09-09 13:31:53: info: MongoDB is connected
+2020-09-09 13:35:24: error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\router\index.js:458:13)
+    at Function.<anonymous> (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\application.js:217:7)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:16:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2020-09-09 13:35:26: error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\router\index.js:458:13)
+    at Function.<anonymous> (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\application.js:217:7)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:16:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2020-09-09 13:35:31: info: Server is listening on 8080
+2020-09-09 13:35:33: info: MongoDB is connected
+2020-09-09 13:38:34: info: /user/signup - POST
+2020-09-09 13:40:20: info: Server is listening on 8080
+2020-09-09 13:40:22: info: MongoDB is connected
+2020-09-09 13:42:06: info: Server is listening on 8080
+2020-09-09 13:42:08: info: MongoDB is connected
+2020-09-09 14:37:53: info: Server is listening on 8080
+2020-09-09 14:37:55: info: MongoDB is connected
+2020-09-09 14:37:57: info: /user/signup - POST
+2020-09-09 14:41:56: info: Server is listening on 8080
+2020-09-09 14:41:59: info: MongoDB is connected
+2020-09-09 14:42:03: info: /user/signup - POST
+2020-09-09 14:43:02: info: /user/signup - POST
+2020-09-09 14:43:47: info: /user/signup - POST
+2020-09-09 14:48:00: info: Server is listening on 8080
+2020-09-09 14:48:02: info: MongoDB is connected
+2020-09-09 14:48:08: info: /user/login - GET
+2020-09-09 14:48:37: info: /user/login - POST
+2020-09-09 15:16:05: info: Server is listening on 8080
+2020-09-09 15:16:07: info: MongoDB is connected
+2020-09-09 15:19:47: info: /user/login - POST
+2020-09-09 15:20:56: info: Server is listening on 8080
+2020-09-09 15:20:58: info: MongoDB is connected
+2020-09-09 15:21:01: info: Server is listening on 8080
+2020-09-09 15:21:03: info: MongoDB is connected
+2020-09-09 15:21:06: info: /user/login - POST
+2020-09-09 15:21:48: info: Server is listening on 8080
+2020-09-09 15:21:50: info: MongoDB is connected
+2020-09-09 15:21:54: info: /user/login - POST
+2020-09-09 15:22:49: info: Server is listening on 8080
+2020-09-09 15:22:51: info: MongoDB is connected
+2020-09-09 15:22:58: info: /user/login - POST
+2020-09-09 15:23:49: info: Server is listening on 8080
+2020-09-09 15:23:52: info: MongoDB is connected
+2020-09-09 15:23:55: info: /user/login - POST
+2020-09-09 15:25:31: info: Server is listening on 8080
+2020-09-09 15:25:33: info: MongoDB is connected
+2020-09-09 15:25:49: info: Server is listening on 8080
+2020-09-09 15:25:52: info: MongoDB is connected
+2020-09-09 15:25:58: info: /user/login - POST
+2020-09-09 15:28:30: info: Server is listening on 8080
+2020-09-09 15:28:32: info: MongoDB is connected
+2020-09-09 15:28:38: info: /user/login - POST
+2020-09-09 15:30:28: info: Server is listening on 8080
+2020-09-09 15:30:30: info: MongoDB is connected
+2020-09-09 15:30:33: info: /user/login - POST
+2020-09-09 15:32:08: info: Server is listening on 8080
+2020-09-09 15:32:11: info: MongoDB is connected
+2020-09-09 15:32:14: info: /user/login - POST
+2020-09-09 15:33:40: info: Server is listening on 8080
+2020-09-09 15:33:43: info: MongoDB is connected
+2020-09-09 15:33:49: info: /user/login - POST
+2020-09-09 15:35:15: info: /user/login - POST
+2020-09-09 15:35:28: info: /user/login - POST
+2020-09-09 18:27:15: info: Server is listening on 8080
+2020-09-09 18:27:17: info: MongoDB is connected
+2020-09-09 18:28:29: info: Server is listening on 8080
+2020-09-09 18:28:32: info: MongoDB is connected
+2020-09-09 18:28:43: info: Server is listening on 8080
+2020-09-09 18:28:45: info: MongoDB is connected
+2020-09-09 18:29:14: info: Server is listening on 8080
+2020-09-09 18:29:17: info: MongoDB is connected
+2020-09-09 18:30:33: info: Server is listening on 8080
+2020-09-09 18:30:36: info: MongoDB is connected
+2020-09-09 19:00:03: info: Server is listening on 8080
+2020-09-09 19:00:05: info: MongoDB is connected
+2020-09-09 19:01:11: info: /user/bookTicket - POST
+2020-09-09 19:01:38: info: Server is listening on 8080
+2020-09-09 19:01:40: info: MongoDB is connected
+2020-09-09 19:01:43: info: /user/bookTicket - POST
+2020-09-09 19:02:41: info: /user/bookTicket - POST
+2020-09-09 19:04:26: info: Server is listening on 8080
+2020-09-09 19:04:28: info: MongoDB is connected
+2020-09-09 19:04:33: info: /user/bookTicket - POST
+2020-09-09 19:07:32: info: Server is listening on 8080
+2020-09-09 19:07:35: info: MongoDB is connected
+2020-09-09 19:13:59: info: Server is listening on 8080
+2020-09-09 19:27:36: info: Server is listening on 8080
+2020-09-09 19:27:38: info: MongoDB is connected
+2020-09-09 19:27:43: info: /user/bookTicket - POST
+2020-09-09 19:30:36: info: Server is listening on 8080
+2020-09-09 19:30:38: info: MongoDB is connected
+2020-09-09 19:38:09: info: Server is listening on 8080
+2020-09-09 19:38:11: info: MongoDB is connected
+2020-09-09 19:38:16: info: Server is listening on 8080
+2020-09-09 19:38:19: info: Server is listening on 8080
+2020-09-09 19:38:22: info: MongoDB is connected
+2020-09-09 19:38:29: info: /user/bookTicket - POST
+2020-09-09 19:58:14: info: Server is listening on 8080
+2020-09-09 19:58:16: info: MongoDB is connected
+2020-09-09 19:58:27: info: /user/bookTicket - POST
+2020-09-09 19:59:12: info: Server is listening on 8080
+2020-09-09 19:59:14: info: MongoDB is connected
+2020-09-09 19:59:15: info: /user/bookTicket - POST
+2020-09-09 19:59:27: info: Server is listening on 8080
+2020-09-09 19:59:29: info: MongoDB is connected
+2020-09-09 19:59:33: info: /user/bookTicket - POST
+2020-09-09 20:00:20: info: Server is listening on 8080
+2020-09-09 20:00:28: info: MongoDB is connected
+2020-09-09 20:00:32: info: /user/bookTicket - POST
+2020-09-09 20:03:13: info: Server is listening on 8080
+2020-09-09 20:03:15: info: MongoDB is connected
+2020-09-09 20:03:18: info: /user/bookTicket - POST
+2020-09-09 20:04:42: info: Server is listening on 8080
+2020-09-09 20:04:45: info: MongoDB is connected
+2020-09-09 20:04:51: info: /user/bookTicket - POST
+2020-09-09 20:06:32: info: Server is listening on 8080
+2020-09-09 20:06:35: info: MongoDB is connected
+2020-09-09 20:06:38: info: /user/bookTicket - POST
+2020-09-09 20:06:58: info: Server is listening on 8080
+2020-09-09 20:07:00: info: MongoDB is connected
+2020-09-09 20:07:06: info: /user/bookTicket - POST
+2020-09-09 20:09:40: info: Server is listening on 8080
+2020-09-09 20:09:42: info: MongoDB is connected
+2020-09-09 20:09:51: info: /user/bookTicket - POST
+2020-09-09 20:14:06: info: Server is listening on 8080
+2020-09-09 20:14:08: info: MongoDB is connected
+2020-09-09 20:14:13: info: /user/bookTicket - POST
+2020-09-09 20:15:47: info: Server is listening on 8080
+2020-09-09 20:15:50: info: MongoDB is connected
+2020-09-09 20:15:59: info: /user/bookTicket - POST
+2020-09-09 20:16:20: info: Server is listening on 8080
+2020-09-09 20:16:23: info: MongoDB is connected
+2020-09-09 20:16:26: info: /user/bookTicket - POST
+2020-09-09 20:17:49: info: Server is listening on 8080
+2020-09-09 20:17:51: info: MongoDB is connected
+2020-09-09 20:17:56: info: /user/bookTicket - POST
+2020-09-09 20:21:31: info: Server is listening on 8080
+2020-09-09 20:21:33: info: MongoDB is connected
+2020-09-09 20:22:28: info: Server is listening on 8080
+2020-09-09 20:22:30: info: MongoDB is connected
+2020-09-09 20:25:01: error: uncaughtException: Unexpected token '}'
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:28
+    }
+    ^
+
+SyntaxError: Unexpected token '}'
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-09 20:25:24: info: Server is listening on 8080
+2020-09-09 20:25:27: info: MongoDB is connected
+2020-09-09 20:25:31: info: /user/bookTicket - POST
+2020-09-09 20:27:39: info: Server is listening on 8080
+2020-09-09 20:27:41: info: MongoDB is connected
+2020-09-09 20:27:49: info: /user/bookTicket - POST
+2020-09-09 20:28:46: info: Server is listening on 8080
+2020-09-09 20:28:48: info: MongoDB is connected
+2020-09-09 20:28:59: info: /user/bookTicket - POST
+2020-09-09 20:29:35: info: Server is listening on 8080
+2020-09-09 20:29:38: info: MongoDB is connected
+2020-09-09 20:29:42: info: Server is listening on 8080
+2020-09-09 20:29:45: info: MongoDB is connected
+2020-09-09 20:29:48: info: /user/bookTicket - POST
+2020-09-09 20:30:31: info: /user/bookTicket - POST
+2020-09-09 20:31:25: info: Server is listening on 8080
+2020-09-09 20:31:27: info: MongoDB is connected
+2020-09-09 20:31:31: info: /user/bookTicket - POST
+2020-09-09 20:34:09: info: Server is listening on 8080
+2020-09-09 20:34:12: info: MongoDB is connected
+2020-09-09 20:42:09: info: Server is listening on 8080
+2020-09-09 20:42:12: info: MongoDB is connected
+2020-09-09 20:45:02: info: /user/signup - POST
+2020-09-09 20:46:08: info: Server is listening on 8080
+2020-09-09 20:46:11: info: MongoDB is connected
+2020-09-09 20:46:14: info: /user/signup - POST
+2020-09-09 20:46:42: info: /user/signup - POST
+2020-09-09 20:46:51: info: /user/signup - POST
+2020-09-09 20:46:58: info: /user/signup - POST
+2020-09-09 20:47:14: info: /user/signup - POST
+2020-09-09 20:48:10: info: /user/signup - POST
+2020-09-09 20:51:01: info: /user/signup - POST
+2020-09-09 20:51:09: info: /user/signup - POST
+2020-09-09 20:51:27: info: /user/signup - POST
+2020-09-09 20:51:51: info: /user/signup - POST
+2020-09-09 20:52:54: info: /user/signup - POST
+2020-09-09 20:53:01: info: /user/signup - POST
+2020-09-09 20:53:14: info: /user/signup - POST
+2020-09-09 20:53:21: info: /user/signup - POST
+2020-09-09 20:54:13: info: /user/login - POST
+2020-09-09 20:54:41: info: /user/login - POST
+2020-09-09 20:55:56: info: /user/login - POST
+2020-09-09 20:57:10: info: /user/bookTicket - POST
+2020-09-09 20:58:32: info: /user/bookTicket - POST
+2020-09-09 20:59:19: info: /user/login - POST
+2020-09-09 21:00:06: info: /user/bookTicket - POST
+2020-09-09 21:00:49: info: /user/bookTicket - POST
+2020-09-09 21:05:14: info: Server is listening on 8080
+2020-09-09 21:05:16: info: MongoDB is connected
+2020-09-09 21:05:22: info: Server is listening on 8080
+2020-09-09 21:05:24: info: MongoDB is connected
+2020-09-09 21:06:13: info: /user/login - POST
+2020-09-09 21:06:36: info: /user/bookTicket - POST
+2020-09-09 21:07:39: info: Server is listening on 8080
+2020-09-09 21:07:41: info: MongoDB is connected
+2020-09-09 21:07:49: info: /user/bookTicket - POST
+2020-09-09 21:08:31: info: Server is listening on 8080
+2020-09-09 21:08:33: info: MongoDB is connected
+2020-09-09 21:08:37: info: /user/bookTicket - POST
+2020-09-09 21:09:00: error: uncaughtException: Unexpected token ';'
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:11
+        if (!(new Date(travel_date) >= today_date);)
+                                                  ^
+
+SyntaxError: Unexpected token ';'
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-09 21:09:12: info: Server is listening on 8080
+2020-09-09 21:09:15: info: MongoDB is connected
+2020-09-09 21:09:34: info: Server is listening on 8080
+2020-09-09 21:09:37: info: MongoDB is connected
+2020-09-09 21:09:41: info: /user/bookTicket - POST
+2020-09-09 21:10:36: info: Server is listening on 8080
+2020-09-09 21:10:38: info: MongoDB is connected
+2020-09-09 21:10:40: info: /user/bookTicket - POST
+2020-09-09 21:11:49: info: Server is listening on 8080
+2020-09-09 21:11:51: info: MongoDB is connected
+2020-09-09 21:32:59: info: Server is listening on 8080
+2020-09-09 21:33:01: info: MongoDB is connected
+2020-09-09 21:33:18: info: Server is listening on 8080
+2020-09-09 21:33:20: info: MongoDB is connected
+2020-09-09 21:33:52: info: /userBookingHistory/ - GET
+2020-09-09 21:34:32: info: /userBookingHistory/ - GET
+2020-09-09 21:35:12: info: Server is listening on 8080
+2020-09-09 21:35:15: info: MongoDB is connected
+2020-09-09 21:35:17: info: /userBookingHistory/ - GET
+2020-09-09 21:36:06: info: Server is listening on 8080
+2020-09-09 21:36:08: info: MongoDB is connected
+2020-09-09 21:36:11: info: /userBookingHistory/ - GET
+2020-09-09 21:36:59: info: Server is listening on 8080
+2020-09-09 21:37:01: info: MongoDB is connected
+2020-09-09 21:37:08: info: /userBookingHistory/ - GET
+2020-09-09 21:40:16: info: Server is listening on 8080
+2020-09-09 21:40:18: info: MongoDB is connected
+2020-09-09 21:40:22: info: /userBookingHistory/ - GET
+2020-09-09 21:45:48: info: Server is listening on 8080
+2020-09-09 21:45:51: info: MongoDB is connected
+2020-09-09 21:45:55: info: /userBookingHistory/ - GET
+2020-09-09 21:46:32: info: Server is listening on 8080
+2020-09-09 21:46:35: info: MongoDB is connected
+2020-09-09 21:53:15: info: Server is listening on 8080
+2020-09-09 21:53:18: info: MongoDB is connected
+2020-09-09 21:59:58: info: Server is listening on 8080
+2020-09-09 22:00:01: info: MongoDB is connected
+2020-09-09 22:30:22: info: Server is listening on 8080
+2020-09-09 22:30:25: info: MongoDB is connected
+2020-09-09 22:30:27: info: Server is listening on 8080
+2020-09-09 22:30:29: info: MongoDB is connected
+2020-09-09 22:32:08: info: Server is listening on 8080
+2020-09-09 22:32:11: info: MongoDB is connected
+2020-09-09 22:35:54: info: Server is listening on 8080
+2020-09-09 22:35:56: info: MongoDB is connected
+2020-09-09 22:38:28: info: /user/login - POST
+2020-09-09 22:38:53: info: /user/cancelTicket - POST
+2020-09-09 22:44:33: info: Server is listening on 8080
+2020-09-09 22:44:35: info: MongoDB is connected
+2020-09-09 22:44:41: info: /user/cancelTicket - POST
+2020-09-09 22:45:21: info: Server is listening on 8080
+2020-09-09 22:45:24: info: MongoDB is connected
+2020-09-09 22:45:30: info: /user/cancelTicket - POST
+2020-09-09 22:46:05: info: Server is listening on 8080
+2020-09-09 22:46:08: info: MongoDB is connected
+2020-09-09 22:46:11: info: /user/cancelTicket - POST
+2020-09-09 22:58:28: info: Server is listening on 8080
+2020-09-09 22:58:30: info: MongoDB is connected
+2020-09-09 22:58:34: info: /user/cancelTicket - POST
+2020-09-09 22:58:45: info: Server is listening on 8080
+2020-09-09 22:58:48: info: MongoDB is connected
+2020-09-09 22:58:52: info: /user/cancelTicket - POST
+2020-09-09 22:59:19: info: Server is listening on 8080
+2020-09-09 22:59:22: info: MongoDB is connected
+2020-09-09 22:59:25: info: /user/cancelTicket - POST
+2020-09-09 22:59:35: info: Server is listening on 8080
+2020-09-09 22:59:37: info: MongoDB is connected
+2020-09-09 22:59:40: info: /user/cancelTicket - POST
+2020-09-10 00:12:00: info: Server is listening on 8080
+2020-09-10 00:12:03: info: MongoDB is connected
+2020-09-10 00:12:11: info: /user/cancelTicket - POST
+2020-09-10 00:15:49: info: Server is listening on 8080
+2020-09-10 00:15:51: info: MongoDB is connected
+2020-09-10 00:15:58: info: /user/cancelTicket - POST
+2020-09-10 00:17:46: info: Server is listening on 8080
+2020-09-10 00:17:48: info: MongoDB is connected
+2020-09-10 00:17:52: info: /user/cancelTicket - POST
+2020-09-10 00:19:18: info: Server is listening on 8080
+2020-09-10 00:19:20: info: MongoDB is connected
+2020-09-10 00:19:25: info: /user/cancelTicket - POST
+2020-09-10 00:20:32: info: Server is listening on 8080
+2020-09-10 00:20:34: info: MongoDB is connected
+2020-09-10 00:20:40: info: /user/cancelTicket - POST
+2020-09-10 00:31:19: info: /user/cancelTicket - POST
+2020-09-10 00:32:18: info: Server is listening on 8080
+2020-09-10 00:32:20: info: MongoDB is connected
+2020-09-10 00:34:00: info: Server is listening on 8080
+2020-09-10 00:34:03: info: MongoDB is connected
+2020-09-10 00:40:17: info: Server is listening on 8080
+2020-09-10 00:40:19: info: MongoDB is connected
+2020-09-10 00:46:59: info: Server is listening on 8080
+2020-09-10 00:47:01: info: MongoDB is connected
+2020-09-10 00:47:30: info: /user/cancelTicket - POST
+2020-09-10 00:48:10: info: /user/cancelTicket - POST
+2020-09-10 00:50:20: info: Server is listening on 8080
+2020-09-10 00:50:23: info: MongoDB is connected
+2020-09-10 00:50:28: info: /user/cancelTicket - POST
+2020-09-10 00:51:39: info: Server is listening on 8080
+2020-09-10 00:51:42: info: MongoDB is connected
+2020-09-10 00:51:47: info: /user/cancelTicket - POST
+2020-09-10 00:53:21: info: Server is listening on 8080
+2020-09-10 00:53:24: info: MongoDB is connected
+2020-09-10 00:53:29: info: /user/cancelTicket - POST
+2020-09-10 00:54:58: info: Server is listening on 8080
+2020-09-10 00:55:01: info: MongoDB is connected
+2020-09-10 00:55:05: info: /user/cancelTicket - POST
+2020-09-10 00:57:53: info: Server is listening on 8080
+2020-09-10 00:57:56: info: MongoDB is connected
+2020-09-10 00:57:59: info: /user/cancelTicket - POST
+2020-09-10 01:03:54: info: Server is listening on 8080
+2020-09-10 01:03:56: info: MongoDB is connected
+2020-09-10 01:04:02: info: /user/cancelTicket - POST
+2020-09-10 01:05:10: info: Server is listening on 8080
+2020-09-10 01:05:13: info: MongoDB is connected
+2020-09-10 01:05:26: info: Server is listening on 8080
+2020-09-10 01:05:29: info: MongoDB is connected
+2020-09-10 01:05:32: info: /user/cancelTicket - POST
+2020-09-10 01:07:16: info: Server is listening on 8080
+2020-09-10 01:07:18: info: MongoDB is connected
+2020-09-10 01:07:21: info: /user/cancelTicket - POST
+2020-09-10 01:09:47: info: /user/cancelTicket - POST
+2020-09-10 09:53:05: info: Server is listening on 8080
+2020-09-10 09:53:07: info: MongoDB is connected
+2020-09-10 09:54:31: info: /userBookingHistory/ - GET
+2020-09-10 09:55:00: info: /user/login - POST
+2020-09-10 09:56:44: info: /user/cancelTicket - POST
+2020-09-10 09:57:56: info: /user/cancelTicket - POST
+2020-09-10 09:58:18: info: /user/cancelTicket - POST
+2020-09-10 09:59:24: info: /user/cancelTicket - POST
+2020-09-10 10:00:14: info: Server is listening on 8080
+2020-09-10 10:00:17: info: MongoDB is connected
+2020-09-10 10:00:53: info: /user/cancelTicket - POST
+2020-09-10 10:03:15: info: Server is listening on 8080
+2020-09-10 10:03:18: info: MongoDB is connected
+2020-09-10 10:03:22: info: /user/cancelTicket - POST
+2020-09-10 10:10:16: info: Server is listening on 8080
+2020-09-10 10:10:19: info: MongoDB is connected
+2020-09-10 10:10:23: info: /user/cancelTicket - POST
+2020-09-10 10:12:01: error: uncaughtException: Unexpected token '{'
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:46
+        var res = await UserBookingHistory.find({ userEmail, { $eq: ["$passengerInformation.status", passengerInfoId] }});
+                                                             ^
+
+SyntaxError: Unexpected token '{'
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 10:27:41: error: uncaughtException: Identifier 'filter' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:64
+        var filter = { userEmail, passengerInformation };
+            ^
+
+SyntaxError: Identifier 'filter' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 10:28:14: info: Server is listening on 8080
+2020-09-10 10:28:16: info: MongoDB is connected
+2020-09-10 10:28:22: info: /user/cancelTicket - POST
+2020-09-10 10:31:21: info: Server is listening on 8080
+2020-09-10 10:31:24: info: MongoDB is connected
+2020-09-10 10:31:29: info: /user/cancelTicket - POST
+2020-09-10 10:32:24: info: Server is listening on 8080
+2020-09-10 10:32:26: info: MongoDB is connected
+2020-09-10 10:32:33: info: /user/cancelTicket - POST
+2020-09-10 10:33:25: info: Server is listening on 8080
+2020-09-10 10:33:28: info: MongoDB is connected
+2020-09-10 10:33:34: info: /user/cancelTicket - POST
+2020-09-10 10:43:25: info: Server is listening on 8080
+2020-09-10 10:43:27: info: MongoDB is connected
+2020-09-10 10:43:35: info: Server is listening on 8080
+2020-09-10 10:43:37: info: MongoDB is connected
+2020-09-10 10:43:42: info: /user/cancelTicket - POST
+2020-09-10 10:45:15: info: Server is listening on 8080
+2020-09-10 10:45:18: info: MongoDB is connected
+2020-09-10 10:45:23: info: /user/cancelTicket - POST
+2020-09-10 10:45:52: info: Server is listening on 8080
+2020-09-10 10:45:55: info: MongoDB is connected
+2020-09-10 10:45:57: info: /user/cancelTicket - POST
+2020-09-10 10:47:42: info: Server is listening on 8080
+2020-09-10 10:47:45: info: MongoDB is connected
+2020-09-10 10:47:50: info: /user/cancelTicket - POST
+2020-09-10 10:50:10: info: Server is listening on 8080
+2020-09-10 10:50:13: info: MongoDB is connected
+2020-09-10 10:50:17: info: /user/cancelTicket - POST
+2020-09-10 10:51:07: info: Server is listening on 8080
+2020-09-10 10:51:10: info: MongoDB is connected
+2020-09-10 10:51:15: info: /user/cancelTicket - POST
+2020-09-10 10:52:30: info: Server is listening on 8080
+2020-09-10 10:52:32: info: MongoDB is connected
+2020-09-10 10:52:38: info: /user/cancelTicket - POST
+2020-09-10 10:53:00: info: Server is listening on 8080
+2020-09-10 10:53:02: info: MongoDB is connected
+2020-09-10 10:55:29: info: /user/cancelTicket - POST
+2020-09-10 10:56:03: info: Server is listening on 8080
+2020-09-10 10:56:05: info: MongoDB is connected
+2020-09-10 10:56:13: info: /user/cancelTicket - POST
+2020-09-10 10:56:34: info: Server is listening on 8080
+2020-09-10 10:56:36: info: MongoDB is connected
+2020-09-10 10:56:40: info: /user/cancelTicket - POST
+2020-09-10 11:01:43: info: Server is listening on 8080
+2020-09-10 11:01:45: info: MongoDB is connected
+2020-09-10 11:01:54: info: /user/cancelTicket - POST
+2020-09-10 11:02:25: info: Server is listening on 8080
+2020-09-10 11:02:27: info: MongoDB is connected
+2020-09-10 11:02:30: info: /user/cancelTicket - POST
+2020-09-10 11:03:36: info: Server is listening on 8080
+2020-09-10 11:03:38: info: MongoDB is connected
+2020-09-10 11:03:49: info: /user/cancelTicket - POST
+2020-09-10 11:07:05: info: Server is listening on 8080
+2020-09-10 11:07:08: info: MongoDB is connected
+2020-09-10 11:07:12: info: /user/cancelTicket - POST
+2020-09-10 11:07:44: info: Server is listening on 8080
+2020-09-10 11:07:47: info: MongoDB is connected
+2020-09-10 11:07:50: info: /user/cancelTicket - POST
+2020-09-10 11:08:11: info: Server is listening on 8080
+2020-09-10 11:08:13: info: MongoDB is connected
+2020-09-10 11:08:16: info: /user/cancelTicket - POST
+2020-09-10 11:51:45: info: Server is listening on 8080
+2020-09-10 11:51:48: info: MongoDB is connected
+2020-09-10 11:51:51: info: /user/cancelTicket - POST
+2020-09-10 11:52:51: info: Server is listening on 8080
+2020-09-10 11:52:53: info: MongoDB is connected
+2020-09-10 11:52:56: info: /user/cancelTicket - POST
+2020-09-10 11:53:43: info: Server is listening on 8080
+2020-09-10 11:53:45: info: MongoDB is connected
+2020-09-10 11:53:48: info: /user/cancelTicket - POST
+2020-09-10 11:56:32: info: Server is listening on 8080
+2020-09-10 11:56:34: info: MongoDB is connected
+2020-09-10 11:56:37: info: /user/cancelTicket - POST
+2020-09-10 11:57:19: info: Server is listening on 8080
+2020-09-10 11:57:21: info: MongoDB is connected
+2020-09-10 11:57:24: info: /user/cancelTicket - POST
+2020-09-10 11:58:32: info: Server is listening on 8080
+2020-09-10 11:58:34: info: MongoDB is connected
+2020-09-10 11:58:43: info: /user/cancelTicket - POST
+2020-09-10 11:59:55: info: Server is listening on 8080
+2020-09-10 11:59:58: info: MongoDB is connected
+2020-09-10 12:00:12: info: /user/cancelTicket - POST
+2020-09-10 12:04:24: info: Server is listening on 8080
+2020-09-10 12:04:26: info: MongoDB is connected
+2020-09-10 12:04:30: info: /user/cancelTicket - POST
+2020-09-10 12:04:41: info: Server is listening on 8080
+2020-09-10 12:04:44: info: MongoDB is connected
+2020-09-10 12:04:47: info: /user/cancelTicket - POST
+2020-09-10 12:06:23: info: Server is listening on 8080
+2020-09-10 12:06:25: info: MongoDB is connected
+2020-09-10 12:06:29: info: /user/cancelTicket - POST
+2020-09-10 12:08:20: info: Server is listening on 8080
+2020-09-10 12:08:22: info: MongoDB is connected
+2020-09-10 12:08:25: info: /user/cancelTicket - POST
+2020-09-10 12:11:14: info: Server is listening on 8080
+2020-09-10 12:11:16: info: MongoDB is connected
+2020-09-10 12:11:20: info: /user/cancelTicket - POST
+2020-09-10 12:13:00: info: Server is listening on 8080
+2020-09-10 12:13:03: info: MongoDB is connected
+2020-09-10 12:13:10: info: /user/cancelTicket - POST
+2020-09-10 12:13:19: info: /user/cancelTicket - POST
+2020-09-10 12:16:35: info: Server is listening on 8080
+2020-09-10 12:16:37: info: MongoDB is connected
+2020-09-10 12:16:42: info: /user/cancelTicket - POST
+2020-09-10 12:16:50: info: /user/cancelTicket - POST
+2020-09-10 12:18:07: info: Server is listening on 8080
+2020-09-10 12:18:10: info: MongoDB is connected
+2020-09-10 12:18:13: info: /user/cancelTicket - POST
+2020-09-10 12:22:20: info: Server is listening on 8080
+2020-09-10 12:22:22: info: MongoDB is connected
+2020-09-10 12:22:26: info: /user/cancelTicket - POST
+2020-09-10 12:24:36: info: Server is listening on 8080
+2020-09-10 12:24:39: info: MongoDB is connected
+2020-09-10 12:24:42: info: /user/cancelTicket - POST
+2020-09-10 12:28:14: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:86
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:28:22: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:86
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:28:53: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:89
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:29:21: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:87
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:29:59: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:87
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:30:21: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:87
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:31:21: info: Server is listening on 8080
+2020-09-10 12:31:24: info: MongoDB is connected
+2020-09-10 12:31:30: info: Server is listening on 8080
+2020-09-10 12:31:32: info: MongoDB is connected
+2020-09-10 12:31:39: info: /user/cancelTicket - POST
+2020-09-10 12:32:48: info: /user/cancelTicket - POST
+2020-09-10 12:33:07: info: /user/cancelTicket - POST
+2020-09-10 12:33:37: info: Server is listening on 8080
+2020-09-10 12:33:40: info: MongoDB is connected
+2020-09-10 12:33:57: info: /user/login - POST
+2020-09-10 12:34:31: info: /user/cancelTicket - POST
+2020-09-10 12:36:00: info: /user/bookTicket - POST
+2020-09-10 12:36:17: info: /user/bookTicket - POST
+2020-09-10 12:36:49: info: /user/cancelTicket - POST
+2020-09-10 12:36:56: info: /user/cancelTicket - POST
+2020-09-10 12:37:06: info: Server is listening on 8080
+2020-09-10 12:37:09: info: MongoDB is connected
+2020-09-10 12:37:14: info: /user/cancelTicket - POST
+2020-09-10 12:38:37: info: Server is listening on 8080
+2020-09-10 12:38:42: info: MongoDB is connected
+2020-09-10 12:39:23: info: /user/login - POST
+2020-09-10 12:41:02: info: Server is listening on 8080
+2020-09-10 12:41:05: info: MongoDB is connected
+2020-09-10 12:41:12: info: /user/bookTicket - POST
+2020-09-10 12:41:50: info: /user/cancelTicket - POST
+2020-09-10 12:42:19: info: /user/login - POST
+2020-09-10 12:42:43: info: /user/bookTicket - POST
+2020-09-10 12:43:15: info: /user/login - POST
+2020-09-10 12:44:45: info: Server is listening on 8080
+2020-09-10 12:44:48: info: MongoDB is connected
+2020-09-10 12:44:58: info: /user/bookTicket - POST
+2020-09-10 12:45:48: info: /user/cancelTicket - POST
+2020-09-10 12:47:01: info: /user/login - POST
+2020-09-10 12:47:12: info: /user/bookTicket - POST
+2020-09-10 12:47:24: info: /user/cancelTicket - POST
+2020-09-10 12:48:29: info: Server is listening on 8080
+2020-09-10 12:48:31: info: MongoDB is connected
+2020-09-10 12:48:42: info: /userBookingHistory/ - GET
+2020-09-10 12:49:11: info: /userBookingHistory/ - GET
+2020-09-10 12:52:52: error: uncaughtException: authController is not defined
+ReferenceError: authController is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\train.js:7:28)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+2020-09-10 12:53:39: error: uncaughtException: authController is not defined
+ReferenceError: authController is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\train.js:7:28)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+2020-09-10 12:53:58: error: uncaughtException: authController is not defined
+ReferenceError: authController is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\train.js:7:28)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+2020-09-10 12:54:36: error: uncaughtException: authController is not defined
+ReferenceError: authController is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\train.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+2020-09-10 12:55:11: info: Server is listening on 8080
+2020-09-10 12:55:15: info: MongoDB is connected
+2020-09-10 12:55:43: info: Server is listening on 8080
+2020-09-10 12:55:46: info: MongoDB is connected
+2020-09-10 12:57:44: info: Server is listening on 8080
+2020-09-10 12:57:47: info: MongoDB is connected
+2020-09-10 12:57:59: info: /user/login - POST
+2020-09-10 12:58:52: info: /user/login - POST
+2020-09-10 12:59:46: info: /train/5f56860156daca1abc400b50 - DELETE
+2020-09-10 13:01:26: info: Server is listening on 8080
+2020-09-10 13:01:29: info: MongoDB is connected
+2020-09-10 13:01:51: info: Server is listening on 8080
+2020-09-10 13:01:54: info: MongoDB is connected
+2020-09-10 13:02:00: info: /train/5f56860156daca1abc400b50 - DELETE
+2020-09-10 13:02:32: info: Server is listening on 8080
+2020-09-10 13:02:34: info: MongoDB is connected
+2020-09-10 13:02:39: info: /train/5f56860156daca1abc400b50 - DELETE
+2020-09-10 13:03:21: info: Server is listening on 8080
+2020-09-10 13:03:23: info: MongoDB is connected
+2020-09-10 13:03:27: info: /train/5f56860156daca1abc400b50 - DELETE
+2020-09-10 13:03:41: info: /user/login - POST
+2020-09-10 13:04:13: info: /train?filter[travelDate]=2020-09-01&filter[trainNo]=2822 - GET
+2020-09-10 13:04:28: info: /train?filter[toStn]=VASAI%20ROAD&filter[trainNo]=2822 - GET
+2020-09-10 13:04:36: info: /train?filter[fromStn]=HAZRAT%20NIZAMUDDIN - GET
+2020-09-10 13:05:12: info: /train - POST
+2020-09-10 13:06:30: info: /train - POST
+2020-09-10 13:06:54: info: /train - POST
+2020-09-10 13:07:35: info: /train/5f5685f556daca1abc400b4f - PUT
+2020-09-10 13:07:56: info: /train/5f5685f556daca1abc400b4f - PUT
+2020-09-10 13:08:39: info: /user/login - POST
+2020-09-10 13:08:57: info: /train/5f56860156daca1abc400b50 - DELETE
+2020-09-10 13:09:10: info: /train/5f5685f556daca1abc400b4f - PUT
+2020-09-10 13:09:49: info: Server is listening on 8080
+2020-09-10 13:09:52: info: MongoDB is connected
+2020-09-10 13:10:23: info: Server is listening on 8080
+2020-09-10 13:10:25: info: MongoDB is connected
+2020-09-10 13:10:27: info: /train/5f5685f556daca1abc400b4f - PUT
+2020-09-10 13:12:00: info: Server is listening on 8080
+2020-09-10 13:12:02: info: MongoDB is connected
+2020-09-10 13:12:05: info: /train/5f5685f556daca1abc400b4f - PUT
+2020-09-10 13:14:33: info: Server is listening on 8080
+2020-09-10 13:14:36: info: MongoDB is connected
+2020-09-10 13:15:48: info: Server is listening on 8080
+2020-09-10 13:15:50: info: MongoDB is connected
+2020-09-10 13:15:59: info: Server is listening on 8080
+2020-09-10 13:16:02: info: MongoDB is connected
+2020-09-10 13:16:10: info: /train/5f5685f556daca1abc400b4f - PUT
+2020-09-10 13:18:45: info: Server is listening on 8080
+2020-09-10 13:18:48: info: Server is listening on 8080
+2020-09-10 13:18:50: info: Server is listening on 8080
+2020-09-10 13:18:53: info: MongoDB is connected
+2020-09-10 13:18:58: info: Server is listening on 8080
+2020-09-10 13:19:00: info: MongoDB is connected
+2020-09-10 13:19:06: info: Server is listening on 8080
+2020-09-10 13:19:09: info: MongoDB is connected
+2020-09-10 13:19:21: info: /train - POST
+2020-09-10 13:19:44: info: /train - POST
+2020-09-10 13:19:58: info: /user/login - POST
+2020-09-10 13:20:13: info: /train/5f56860156daca1abc400b50 - DELETE
+2020-09-10 13:20:41: info: /train/5f5685f556daca1abc400b4f - DELETE

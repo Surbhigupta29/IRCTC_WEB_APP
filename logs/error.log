@@ -1,0 +1,446 @@
+2020-09-07 22:35:05: error: uncaughtException: Cannot find module '../models/trains'
+Require stack:
+- C:\Users\user\Desktop\IRCTC\service\train.js
+- C:\Users\user\Desktop\IRCTC\controller\train.js
+- C:\Users\user\Desktop\IRCTC\routes\train.js
+- C:\Users\user\Desktop\IRCTC\app.js
+- C:\Users\user\Desktop\IRCTC\server.js
+Error: Cannot find module '../models/trains'
+Require stack:
+- C:\Users\user\Desktop\IRCTC\service\train.js
+- C:\Users\user\Desktop\IRCTC\controller\train.js
+- C:\Users\user\Desktop\IRCTC\routes\train.js
+- C:\Users\user\Desktop\IRCTC\app.js
+- C:\Users\user\Desktop\IRCTC\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:793:17)
+    at Function.Module._load (internal/modules/cjs/loader.js:686:27)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\service\train.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\train.js:1:22)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2020-09-07 22:35:48: error: uncaughtException: Cannot find module '../models/trains'
+Require stack:
+- C:\Users\user\Desktop\IRCTC\service\train.js
+- C:\Users\user\Desktop\IRCTC\controller\train.js
+- C:\Users\user\Desktop\IRCTC\routes\train.js
+- C:\Users\user\Desktop\IRCTC\app.js
+- C:\Users\user\Desktop\IRCTC\server.js
+Error: Cannot find module '../models/trains'
+Require stack:
+- C:\Users\user\Desktop\IRCTC\service\train.js
+- C:\Users\user\Desktop\IRCTC\controller\train.js
+- C:\Users\user\Desktop\IRCTC\routes\train.js
+- C:\Users\user\Desktop\IRCTC\app.js
+- C:\Users\user\Desktop\IRCTC\server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:793:17)
+    at Function.Module._load (internal/modules/cjs/loader.js:686:27)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\service\train.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\train.js:1:22)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2020-09-07 23:37:39: error: uncaughtException: alert is not defined
+ReferenceError: alert is not defined
+    at Timeout._onTimeout (C:\Users\user\Desktop\IRCTC\server.js:14:29)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-09-07 23:37:39: error: uncaughtException: alert is not defined
+ReferenceError: alert is not defined
+    at Timeout._onTimeout (C:\Users\user\Desktop\IRCTC\server.js:14:29)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-09-07 23:45:10: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-07 23:45:30: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-08 00:01:06: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-08 00:01:11: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-08 00:38:51: error: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:16:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-09 09:58:04: error: MongoDB connection unsuccessful, retry after 5 seconds.MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2020-09-09 09:59:46: error: MongoDB connection unsuccessful, retry after 5 seconds.MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2020-09-09 10:35:39: error: MongoDB connection unsuccessful, retry after 5 seconds.Error: querySrv ECONNREFUSED _mongodb._tcp.clusterirctc.9kqdj.mongodb.net
+2020-09-09 13:35:24: error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\router\index.js:458:13)
+    at Function.<anonymous> (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\application.js:217:7)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:16:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2020-09-09 13:35:26: error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\router\index.js:458:13)
+    at Function.<anonymous> (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\user\Desktop\IRCTC\node_modules\express\lib\application.js:217:7)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:16:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2020-09-09 20:25:01: error: uncaughtException: Unexpected token '}'
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:28
+    }
+    ^
+
+SyntaxError: Unexpected token '}'
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-09 21:09:00: error: uncaughtException: Unexpected token ';'
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:11
+        if (!(new Date(travel_date) >= today_date);)
+                                                  ^
+
+SyntaxError: Unexpected token ';'
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 10:12:01: error: uncaughtException: Unexpected token '{'
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:46
+        var res = await UserBookingHistory.find({ userEmail, { $eq: ["$passengerInformation.status", passengerInfoId] }});
+                                                             ^
+
+SyntaxError: Unexpected token '{'
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 10:27:41: error: uncaughtException: Identifier 'filter' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:64
+        var filter = { userEmail, passengerInformation };
+            ^
+
+SyntaxError: Identifier 'filter' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:28:14: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:86
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:28:22: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:86
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:28:53: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:89
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:29:21: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:87
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:29:59: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:87
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:30:21: error: uncaughtException: Identifier 'result' has already been declared
+C:\Users\user\Desktop\IRCTC\service\userBookingHistory.js:87
+        const result = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
+              ^
+
+SyntaxError: Identifier 'result' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\controller\user.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\user.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2020-09-10 12:52:52: error: uncaughtException: authController is not defined
+ReferenceError: authController is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\train.js:7:28)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+2020-09-10 12:53:39: error: uncaughtException: authController is not defined
+ReferenceError: authController is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\train.js:7:28)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+2020-09-10 12:53:58: error: uncaughtException: authController is not defined
+ReferenceError: authController is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\train.js:7:28)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+2020-09-10 12:54:36: error: uncaughtException: authController is not defined
+ReferenceError: authController is not defined
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\routes\train.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\app.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\user\Desktop\IRCTC\server.js:6:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)

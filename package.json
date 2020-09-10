@@ -1,0 +1,23 @@
+{
+  "name": "irctc",
+  "version": "1.0.0",
+  "description": "irctc web api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Surbhi",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.3",
+    "nodemon": "^2.0.4",
+    "validator": "^13.1.1",
+    "winston": "^3.3.3"
+  }
+}
