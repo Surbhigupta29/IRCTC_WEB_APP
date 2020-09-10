@@ -1,7 +1,6 @@
 const userBookingHistoryService = require('../service/userBookingHistory');
 
 exports.bookTicket = async (req, res, next) => {
-    console.log(req.user);
     try {
         const { body: { passengerInfo, train, trainClass }, user: { email } } = req;
 

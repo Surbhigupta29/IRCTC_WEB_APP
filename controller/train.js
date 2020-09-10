@@ -34,7 +34,6 @@ exports.updateTrain = async (req, res, next) => {
     params: { trainId },
     body: { train }
   } = req;
-  console.log(trainId, train);
   try {
     const result = await trainService.updateTrainWithId(trainId, train);
     res.status(200).json({

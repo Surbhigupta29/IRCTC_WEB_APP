@@ -6,7 +6,6 @@ class UsersService {
   }
 
   async getUsers(filter) {
-    console.log(filter);
     const result = await Users.find(filter);
     return result;
   }

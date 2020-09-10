@@ -82,8 +82,6 @@ class UserBookingHistoryService {
         };
         dataToUpdate = { "passengerInformation": dataToUpdate };
 
-        console.log(filter, dataToUpdate);
-
         const doc = await UserBookingHistory.findOneAndUpdate(filter, dataToUpdate,
             {
                 new: true,

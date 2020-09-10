@@ -54,7 +54,6 @@ exports.login = async (req, res, next) => {
 };
 
 exports.restrictTo = (...roles) => {
-  console.log(roles);
   return (req, res, next) => {
     if (!roles.includes(req.user.role)) {
       res.status(401).json({

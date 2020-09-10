@@ -5,7 +5,6 @@ exports.getUserBookingHistory = async (req, res, next) => {
         user: { email }
     } = req;
     try {
-        console.log(email);
         const result = await userBookingHistoryService.aggregate(email);
         res.status(200).json({
             status: 'success',

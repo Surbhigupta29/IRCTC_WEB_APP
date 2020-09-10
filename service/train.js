@@ -6,7 +6,6 @@ class TrainsService {
   }
 
   async getTrains(filter) {
-    console.log(filter);
     const result = await Trains.find(filter);
     return result;
   }

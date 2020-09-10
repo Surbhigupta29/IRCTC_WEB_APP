@@ -1181,3 +1181,5 @@ ReferenceError: authController is not defined
 2020-09-10 13:19:58: info: /user/login - POST
 2020-09-10 13:20:13: info: /train/5f56860156daca1abc400b50 - DELETE
 2020-09-10 13:20:41: info: /train/5f5685f556daca1abc400b4f - DELETE
+2020-09-10 14:47:37: info: Server is listening on 8080
+2020-09-10 14:47:40: info: MongoDB is connected
